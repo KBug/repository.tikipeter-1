@@ -88,6 +88,11 @@
             <platform>all</platform>
             <summary>Tikipeter's Repository</summary>
             <description>Unofficial add-ons repository</description>
+            <assets>
+                <icon>resources/media/fen_icon.png</icon>
+                <fanart>resources/media/fen_fanart.png</fanart>
+                <clearlogo>resources/media/fen_clearlogo.png</clearlogo>
+            </assets>
         </extension>
     </addon>
 </addons>
