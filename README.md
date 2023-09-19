@@ -2,6 +2,8 @@
 
 * **ANY mention of External Scrapers within this Github will result in a PERMANENT BAN. No warnings.**
 
+* **If you begin your Issue with the word "SO", or begin any sentence within said Issue with the word "SO", or begin the title of your Issue with the word "SO" and the word "SO" is not needing to be used, your Issue will be closed immediately. Repeat offenders will be banned. An example of what would be deemed not needed: "So I was using Fen the other day, and I thought of a cool feature".**
+
 * **TMDbHelper** and/or library playback issues are *not supported*. Fen does not support TMDbHelper. If I wanted to write an addon to purely search and play back results whilst another addon is used for everything else, that's what I would have written. The full breaking of TMDbHelper accessing Fen scraping & playback is close. Don't push that by opening an Issue related to it. Use a Fen fork if you want to use TMDbHelper.
 * **FireStick** Issues arising from using a FireStick will no longer be supported. These devices are TERRIBLE for Kodi usage, and they present unique and sometimes irredeemable problems when they are used as a Kodi device. If I deem your Issue is due to using one of these FireSticks, then I am not willing to outlay any more of my time troubleshooting these wretched devices.
 * **Pre-made Builds** of any kind are *not supported*. If you installed someone else's build, you need to go to them to troubleshoot issues. I'm sure they researched exactly how Fen works before offering it within their publicly released build without permission.
