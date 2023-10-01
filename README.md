@@ -1,5 +1,3 @@
 
-**Issues are closed.**
-
-**Any important information that needs to be known about future updates will appear here.**
+**Any mention of external scrapers will result in an immediate ban. No warnings. I do not support Fen being used with external scrapers.**
 
